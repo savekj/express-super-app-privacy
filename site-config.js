@@ -1,5 +1,5 @@
 ﻿window.expressLegalConfig = {
-  companyName: 'เธเธฃเธดเธฉเธฑเธ— เน€เธญเนเธเธเนเน€เธเธฃเธช เธเธญเธเธ—เนเนเธงเธฃเน เธเธฃเธธเนเธ เธเธณเธเธฑเธ”',
+  companyName: '\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e40\u0e2d\u0e47\u0e01\u0e0b\u0e4c\u0e40\u0e1e\u0e23\u0e2a \u0e0b\u0e2d\u0e1f\u0e17\u0e4c\u0e41\u0e27\u0e23\u0e4c \u0e01\u0e23\u0e38\u0e4a\u0e1b \u0e08\u0e33\u0e01\u0e31\u0e14',
   supportEmail: 'support@esg.co.th',
   effectiveDate: '8 เธ•เธธเธฅเธฒเธเธก 2569',
 };
